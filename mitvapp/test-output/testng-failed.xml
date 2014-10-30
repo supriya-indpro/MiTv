@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MiTvTestSuite]">
+  <test name="MiTvTestCases(failed)">
+    <classes>
+      <class name="se.test.MiTvAppTest.RegisterNewUser">
+        <methods>
+          <include name="SetUp"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- se.test.MiTvAppTest.RegisterNewUser -->
+      <class name="se.test.MiTvAppTest.LikeTestCases">
+        <methods>
+          <include name="TearDown"/>
+          <include name="test_2verifyLikeTodos"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- se.test.MiTvAppTest.LikeTestCases -->
+      <class name="se.test.MiTvAppTest.ResetPassword">
+        <methods>
+          <include name="TearDown"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- se.test.MiTvAppTest.ResetPassword -->
+      <class name="se.test.MiTvAppTest.DragDropChannelTestCase">
+        <methods>
+          <include name="TearDown"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- se.test.MiTvAppTest.DragDropChannelTestCase -->
+      <class name="se.test.MiTvAppTest.ReminderTestCases">
+        <methods>
+          <include name="TearDown"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- se.test.MiTvAppTest.ReminderTestCases -->
+      <class name="se.test.MiTvAppTest.ActivitiesTestCase">
+        <methods>
+          <include name="SetUp"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- se.test.MiTvAppTest.ActivitiesTestCase -->
+      <class name="se.test.MiTvAppTest.HomeActivitiesTestCase">
+        <methods>
+          <include name="TearDown"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- se.test.MiTvAppTest.HomeActivitiesTestCase -->
+    </classes>
+  </test> <!-- MiTvTestCases(failed) -->
+</suite> <!-- Failed suite [MiTvTestSuite] -->

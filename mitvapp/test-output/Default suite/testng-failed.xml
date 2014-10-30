@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="se.test.MiTvAppTest.LikeTest">
+        <methods>
+          <include name="test_8ResetPassword"/>
+          <include name="test_3VerifyDates"/>
+          <include name="test_2verifyLikeTodos"/>
+          <include name="test_6verifyLikeNiños"/>
+          <include name="test_6DragAndDrop"/>
+          <include name="test_1SplashScreen"/>
+          <include name="test_4verifyLikeSeries"/>
+          <include name="test_3verifyLikePelis"/>
+          <include name="test_5SportsReminder"/>
+          <include name="test_9homeActivity"/>
+          <include name="SetUp"/>
+          <include name="test_5verifyLikeDeportes"/>
+          <include name="test_2RegisterNewUser"/>
+          <include name="test_7Activity"/>
+          <include name="test_4MovieIcon"/>
+        </methods>
+      </class> <!-- se.test.MiTvAppTest.LikeTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

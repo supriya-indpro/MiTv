@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]">
+  <test name="Test1(failed)">
+    <classes>
+      <class name="se.test.MiTvAppTest.LikeTest">
+        <methods>
+          <include name="test_6verifyLikeNiños"/>
+          <include name="test_5verifyLikeDeportes"/>
+          <include name="test_4verifyLikeSeries"/>
+          <include name="test_3verifyLikePelis"/>
+          <include name="TearDown"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- se.test.MiTvAppTest.LikeTest -->
+      <class name="se.test.MiTvAppTest.AndroidApp">
+        <methods>
+          <include name="TearDown"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- se.test.MiTvAppTest.AndroidApp -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

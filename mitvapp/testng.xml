@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MiTvTestSuite"> 
+<test name="MiTvTestCases">
+	<classes>
+	<class name="se.test.MiTvAppTest.LikeTestCases"></class>
+	<class name="se.test.MiTvAppTest.ActivitiesTestCase"></class> 
+	<class name="se.test.MiTvAppTest.DragDropChannelTestCase"></class> 
+	<class name="se.test.MiTvAppTest.HomeActivitiesTestCase"></class> 
+	<class name="se.test.MiTvAppTest.RegisterNewUser"></class> 
+	<class name="se.test.MiTvAppTest.ReminderTestCases"></class> 
+	<class name="se.test.MiTvAppTest.ResetPassword"></class> 
+	</classes>	
+	</test>
+</suite> <!-- Suite -->

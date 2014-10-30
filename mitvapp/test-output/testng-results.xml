@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="16" passed="15">
+  <reporter-output>
+    <line>
+      <![CDATA[App launched]]>
+    </line>
+    <line>
+      <![CDATA[SplashScreen]]>
+    </line>
+    <line>
+      <![CDATA[Verify Todos like option]]>
+    </line>
+    <line>
+      <![CDATA[login test case]]>
+    </line>
+    <line>
+      <![CDATA[Scroll bar error]]>
+    </line>
+    <line>
+      <![CDATA[App launched]]>
+    </line>
+    <line>
+      <![CDATA[SplashScreen]]>
+    </line>
+    <line>
+      <![CDATA[test activity test case]]>
+    </line>
+    <line>
+      <![CDATA[logout test case]]>
+    </line>
+    <line>
+      <![CDATA[App launched]]>
+    </line>
+    <line>
+      <![CDATA[SplashScreen]]>
+    </line>
+    <line>
+      <![CDATA[Drag drop channels test case]]>
+    </line>
+    <line>
+      <![CDATA[login test case]]>
+    </line>
+    <line>
+      <![CDATA[logout test case]]>
+    </line>
+    <line>
+      <![CDATA[App launched]]>
+    </line>
+    <line>
+      <![CDATA[SplashScreen]]>
+    </line>
+    <line>
+      <![CDATA[App launched]]>
+    </line>
+    <line>
+      <![CDATA[SplashScreen]]>
+    </line>
+    <line>
+      <![CDATA[Register new user test case]]>
+    </line>
+    <line>
+      <![CDATA[Email id already registered]]>
+    </line>
+    <line>
+      <![CDATA[verifyDates test case]]>
+    </line>
+    <line>
+      <![CDATA[testMovieIcon test case]]>
+    </line>
+    <line>
+      <![CDATA[App launched]]>
+    </line>
+    <line>
+      <![CDATA[SplashScreen]]>
+    </line>
+    <line>
+      <![CDATA[test sports test case]]>
+    </line>
+    <line>
+      <![CDATA[login test case]]>
+    </line>
+    <line>
+      <![CDATA[logout test case]]>
+    </line>
+    <line>
+      <![CDATA[App launched]]>
+    </line>
+    <line>
+      <![CDATA[SplashScreen]]>
+    </line>
+    <line>
+      <![CDATA[testResetPassword test case]]>
+    </line>
+  </reporter-output>
+  <suite name="MiTvTestSuite" duration-ms="1071603" started-at="2014-09-15T04:07:17Z" finished-at="2014-09-15T04:25:09Z">
+    <groups>
+    </groups>
+    <test name="MiTvTestCases" duration-ms="1071603" started-at="2014-09-15T04:07:17Z" finished-at="2014-09-15T04:25:09Z">
+      <class name="se.test.MiTvAppTest.HomeActivitiesTestCase">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:se.test.MiTvAppTest.HomeActivitiesTestCase@7225790e]" name="SetUp" is-config="true" duration-ms="7733" started-at="2014-09-15T09:46:41Z" finished-at="2014-09-15T09:46:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[App launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test_1SplashScreen()[pri:0, instance:se.test.MiTvAppTest.HomeActivitiesTestCase@7225790e]" name="test_1SplashScreen" duration-ms="7116" started-at="2014-09-15T09:46:48Z" finished-at="2014-09-15T09:46:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[SplashScreen]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_1SplashScreen -->
+        <test-method status="PASS" signature="test_2homeActivity()[pri:0, instance:se.test.MiTvAppTest.HomeActivitiesTestCase@7225790e]" name="test_2homeActivity" duration-ms="30218" started-at="2014-09-15T09:46:55Z" finished-at="2014-09-15T09:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_2homeActivity -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:se.test.MiTvAppTest.HomeActivitiesTestCase@7225790e]" name="TearDown" is-config="true" duration-ms="764" started-at="2014-09-15T09:47:26Z" finished-at="2014-09-15T09:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- se.test.MiTvAppTest.HomeActivitiesTestCase -->
+      <class name="se.test.MiTvAppTest.DragDropChannelTestCase">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:se.test.MiTvAppTest.DragDropChannelTestCase@6df97b55]" name="SetUp" is-config="true" duration-ms="8285" started-at="2014-09-15T09:42:40Z" finished-at="2014-09-15T09:42:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[App launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test_1SplashScreen()[pri:0, instance:se.test.MiTvAppTest.DragDropChannelTestCase@6df97b55]" name="test_1SplashScreen" duration-ms="8678" started-at="2014-09-15T09:42:48Z" finished-at="2014-09-15T09:42:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[SplashScreen]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_1SplashScreen -->
+        <test-method status="PASS" signature="test_2DragAndDrop()[pri:0, instance:se.test.MiTvAppTest.DragDropChannelTestCase@6df97b55]" name="test_2DragAndDrop" duration-ms="222980" started-at="2014-09-15T09:42:57Z" finished-at="2014-09-15T09:46:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Drag drop channels test case]]>
+            </line>
+            <line>
+              <![CDATA[login test case]]>
+            </line>
+            <line>
+              <![CDATA[logout test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_2DragAndDrop -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:se.test.MiTvAppTest.DragDropChannelTestCase@6df97b55]" name="TearDown" is-config="true" duration-ms="629" started-at="2014-09-15T09:46:40Z" finished-at="2014-09-15T09:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- se.test.MiTvAppTest.DragDropChannelTestCase -->
+      <class name="se.test.MiTvAppTest.ReminderTestCases">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:se.test.MiTvAppTest.ReminderTestCases@3cbbc1e0]" name="SetUp" is-config="true" duration-ms="8089" started-at="2014-09-15T09:49:28Z" finished-at="2014-09-15T09:49:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[App launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test_1SplashScreen()[pri:0, instance:se.test.MiTvAppTest.ReminderTestCases@3cbbc1e0]" name="test_1SplashScreen" duration-ms="7209" started-at="2014-09-15T09:49:36Z" finished-at="2014-09-15T09:49:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[SplashScreen]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_1SplashScreen -->
+        <test-method status="PASS" signature="test_2SportsReminder()[pri:0, instance:se.test.MiTvAppTest.ReminderTestCases@3cbbc1e0]" name="test_2SportsReminder" duration-ms="185933" started-at="2014-09-15T09:49:43Z" finished-at="2014-09-15T09:52:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test sports test case]]>
+            </line>
+            <line>
+              <![CDATA[login test case]]>
+            </line>
+            <line>
+              <![CDATA[logout test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_2SportsReminder -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:se.test.MiTvAppTest.ReminderTestCases@3cbbc1e0]" name="TearDown" is-config="true" duration-ms="1091" started-at="2014-09-15T09:52:49Z" finished-at="2014-09-15T09:52:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- se.test.MiTvAppTest.ReminderTestCases -->
+      <class name="se.test.MiTvAppTest.LikeTestCases">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:se.test.MiTvAppTest.LikeTestCases@34b7bfc0]" name="SetUp" is-config="true" duration-ms="4109" started-at="2014-09-15T09:37:17Z" finished-at="2014-09-15T09:37:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[App launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test_1SplashScreen()[pri:0, instance:se.test.MiTvAppTest.LikeTestCases@34b7bfc0]" name="test_1SplashScreen" duration-ms="8244" started-at="2014-09-15T09:37:21Z" finished-at="2014-09-15T09:37:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[SplashScreen]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_1SplashScreen -->
+        <test-method status="FAIL" signature="test_2verifyLikeTodos()[pri:0, instance:se.test.MiTvAppTest.LikeTestCases@34b7bfc0]" name="test_2verifyLikeTodos" duration-ms="172734" started-at="2014-09-15T09:37:29Z" finished-at="2014-09-15T09:40:22Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'IPPRAKASHKUMAR', ip: '192.168.1.84', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.4', java.version: '1.8.0_05'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{desired={}, platformVersion=4.1, warnings={}, webStorageEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, databaseEnabled=false, platform=LINUX}]
+Session ID: 04e8c3a3-96e2-401c-ac11-73975ea1a59c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'IPPRAKASHKUMAR', ip: '192.168.1.84', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.9.4', java.version: '1.8.0_05'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities [{desired={}, platformVersion=4.1, warnings={}, webStorageEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, databaseEnabled=false, platform=LINUX}]
+Session ID: 04e8c3a3-96e2-401c-ac11-73975ea1a59c
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:95)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:393)
+	at org.openqa.selenium.By$ById.findElement(By.java:214)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at se.test.MiTvAppTest.LikeTestCases.test_2verifyLikeTodos(LikeTestCases.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Verify Todos like option]]>
+            </line>
+            <line>
+              <![CDATA[login test case]]>
+            </line>
+            <line>
+              <![CDATA[Scroll bar error]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_2verifyLikeTodos -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:se.test.MiTvAppTest.LikeTestCases@34b7bfc0]" name="TearDown" is-config="true" duration-ms="545" started-at="2014-09-15T09:40:22Z" finished-at="2014-09-15T09:40:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- se.test.MiTvAppTest.LikeTestCases -->
+      <class name="se.test.MiTvAppTest.ResetPassword">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:se.test.MiTvAppTest.ResetPassword@366e2eef]" name="SetUp" is-config="true" duration-ms="8201" started-at="2014-09-15T09:52:50Z" finished-at="2014-09-15T09:52:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[App launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test_1SplashScreen()[pri:0, instance:se.test.MiTvAppTest.ResetPassword@366e2eef]" name="test_1SplashScreen" duration-ms="8324" started-at="2014-09-15T09:52:58Z" finished-at="2014-09-15T09:53:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[SplashScreen]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_1SplashScreen -->
+        <test-method status="PASS" signature="test_2ResetPassword()[pri:0, instance:se.test.MiTvAppTest.ResetPassword@366e2eef]" name="test_2ResetPassword" duration-ms="121749" started-at="2014-09-15T09:53:07Z" finished-at="2014-09-15T09:55:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[testResetPassword test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_2ResetPassword -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:se.test.MiTvAppTest.ResetPassword@366e2eef]" name="TearDown" is-config="true" duration-ms="436" started-at="2014-09-15T09:55:08Z" finished-at="2014-09-15T09:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- se.test.MiTvAppTest.ResetPassword -->
+      <class name="se.test.MiTvAppTest.RegisterNewUser">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:se.test.MiTvAppTest.RegisterNewUser@3567135c]" name="SetUp" is-config="true" duration-ms="7760" started-at="2014-09-15T09:47:26Z" finished-at="2014-09-15T09:47:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[App launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test_1SplashScreen()[pri:0, instance:se.test.MiTvAppTest.RegisterNewUser@3567135c]" name="test_1SplashScreen" duration-ms="8732" started-at="2014-09-15T09:47:34Z" finished-at="2014-09-15T09:47:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[SplashScreen]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_1SplashScreen -->
+        <test-method status="PASS" signature="test_2RegisterNewUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:se.test.MiTvAppTest.RegisterNewUser@3567135c]" name="test_2RegisterNewUser" duration-ms="87968" started-at="2014-09-15T09:47:43Z" data-provider="loginCredentials" finished-at="2014-09-15T09:49:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[supriya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vivek]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[supriya.v@indpro.se]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Register new user test case]]>
+            </line>
+            <line>
+              <![CDATA[Email id already registered]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_2RegisterNewUser -->
+        <test-method status="PASS" signature="test_3VerifyDates()[pri:0, instance:se.test.MiTvAppTest.RegisterNewUser@3567135c]" name="test_3VerifyDates" duration-ms="10825" started-at="2014-09-15T09:49:11Z" finished-at="2014-09-15T09:49:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[verifyDates test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_3VerifyDates -->
+        <test-method status="PASS" signature="test_4MovieIcon()[pri:0, instance:se.test.MiTvAppTest.RegisterNewUser@3567135c]" name="test_4MovieIcon" duration-ms="5437" started-at="2014-09-15T09:49:22Z" finished-at="2014-09-15T09:49:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[testMovieIcon test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_4MovieIcon -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:se.test.MiTvAppTest.RegisterNewUser@3567135c]" name="TearDown" is-config="true" duration-ms="583" started-at="2014-09-15T09:49:27Z" finished-at="2014-09-15T09:49:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- se.test.MiTvAppTest.RegisterNewUser -->
+      <class name="se.test.MiTvAppTest.ActivitiesTestCase">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:se.test.MiTvAppTest.ActivitiesTestCase@35fb3008]" name="SetUp" is-config="true" duration-ms="7942" started-at="2014-09-15T09:40:23Z" finished-at="2014-09-15T09:40:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[App launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test_1SplashScreen()[pri:0, instance:se.test.MiTvAppTest.ActivitiesTestCase@35fb3008]" name="test_1SplashScreen" duration-ms="7748" started-at="2014-09-15T09:40:31Z" finished-at="2014-09-15T09:40:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[SplashScreen]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_1SplashScreen -->
+        <test-method status="PASS" signature="test_2Activity()[pri:0, instance:se.test.MiTvAppTest.ActivitiesTestCase@35fb3008]" name="test_2Activity" duration-ms="120394" started-at="2014-09-15T09:40:38Z" finished-at="2014-09-15T09:42:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test activity test case]]>
+            </line>
+            <line>
+              <![CDATA[logout test case]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_2Activity -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:se.test.MiTvAppTest.ActivitiesTestCase@35fb3008]" name="TearDown" is-config="true" duration-ms="1076" started-at="2014-09-15T09:42:39Z" finished-at="2014-09-15T09:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- se.test.MiTvAppTest.ActivitiesTestCase -->
+    </test> <!-- MiTvTestCases -->
+  </suite> <!-- MiTvTestSuite -->
+</testng-results>
